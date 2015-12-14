@@ -30,9 +30,11 @@ This is tested only on Ubuntu 14.04.3 LTS
 
 3. Download and extract the latest OpenCV release (as of this guide it's on 3.0)(http://opencv.org/)
 	1. Open the terminal and go to the folder where you extracted.
-	2. Make sure that you run this commands sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
-	3. Install the Media I/O: sudo apt-get install zlib1g-dev libjpeg-dev libwebp-dev libpng-dev libtiff5-dev libjasper-dev libopenexr-dev libgdal-dev
-	4. Use this commands to install: 
+	2. Make sure that you run this commands.
+	
+		sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
+	4. Install the Media I/O: sudo apt-get install zlib1g-dev libjpeg-dev libwebp-dev libpng-dev libtiff5-dev libjasper-dev libopenexr-dev libgdal-dev
+	5. Use this commands to install: 
 		
         mkdir build
 		
