@@ -1,7 +1,7 @@
 # cpp-challenge setup
 
 ### Ubuntu ###
-This is tested only one Ubuntu 14.04.3 LTS
+This is tested only on Ubuntu 14.04.3 LTS
 
 1. Download and extract the latest CMake release (as of this guide it's on 3.4.1)(https://cmake.org/download/) 
 	1. Open the terminal and go to the folder where you extracted.
